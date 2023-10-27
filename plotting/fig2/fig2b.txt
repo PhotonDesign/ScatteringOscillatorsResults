@@ -1,0 +1,15 @@
+Material, placement, planar, analyticity bound, channel bound
+optimal2D, 14, 2.40e5, 1.50e7, 6.75e6
+idealmetal, 13, 2.28e5, 4.66e6, 2.52e6
+idealito, 12, 9.77e4, 1.49e7, 4.39e6
+mgf2, 11, 7.94e4, 6.16e6, 4.0e8
+alo, 10, 4.44e4, 4.0e8, 4.0e8
+inp, 9, 3.62e4, 4.62e7, 4.0e8
+gaas, 8, 3.02e4, 3.87e7, 4.0e8
+sio2, 7, 2.3e4, 5.56e6, 4.0e8
+sic, 6, 9.32e3, 2.0e7, 4.0e8
+cbn, 5, 5.53e3, 1.46e7, 4.0e8
+si1e20, 4, 5.08e3, 2.5e8, 4.0e8
+al, 3, 2.65e3, 2.5e8, 2.94e7
+au, 2, 986, 2.5e8, 3.20e7
+ag, 1, 912, 2.5e8, 3.40e7
